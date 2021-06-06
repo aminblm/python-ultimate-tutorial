@@ -6,8 +6,10 @@
 
 
 Hosted by Amin M. Boulouma, contact and questions: [amine.boulouma.com](https://amine.boulouma.com)
+
 - Python tutorial made simple: https://youtu.be/vQqisFjAnsE
 - Source code: https://amboulouma.com/python-tutorial
+- Amin M. Boulouma Blog: https://amboulouma.com
 - Github: https://github.com/amboulouma/python-ultimate-tutorial
 
 ### Documentation
